@@ -1,0 +1,35 @@
+body{
+    background-image:url("2.jpg");
+    text-align: center;
+    background-size: cover;
+  
+   }
+   #todo{
+       width: 500px;
+       height: 60px;
+       background-color: rgb(200, 229, 233);
+       color:rgb(5, 45, 54);
+       box-shadow: black 5px;
+
+   }
+   #one{
+       margin: 10px 100px 10px 10px;
+      color: white;
+   }
+ #deletall{ 
+       margin: 5px 5px 5px 5px;
+       width: 80px;
+       height: 40px;
+       background-color:black;
+       color:white;
+   }
+ #add{
+    margin: 5px 5px 5px 2px;
+    width: 110px;
+    height: 40px;
+    background-color: black;
+    color:white;
+ } 
+ #main{
+     color: black;
+ }
